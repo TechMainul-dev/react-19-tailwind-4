@@ -1,9 +1,16 @@
-# React + Vite
+# React-19 + Vite with TailwindCSS-4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. and also get TailwindCSS
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Built with React 19 and Tailwind CSS 4
+- Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react-19-tailwind-4
+## 🛠 Installation
+```sh
+git clone https://github.com/TechMainul-dev/react-19-tailwind-4.git
+cd react-19-tailwind-4
+npm install
+npm start
+```
+
