@@ -11,6 +11,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 git clone https://github.com/TechMainul-dev/react-19-tailwind-4.git
 cd react-19-tailwind-4
 npm install
-npm start
+npm run dev
 ```
 
